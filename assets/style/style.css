@@ -1,0 +1,20 @@
+.vendr-img {
+  background-image: url(https://images.unsplash.com/photo-1670653357289-68c4f2961895?q=80&w=2117&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-size: unset;
+  background-position: center;
+  background-color: #000000;
+  opacity: 0.7;
+
+}
+
+.font-color {
+  color: aquamarine;
+}
+
+.shadow {
+  text-shadow: #000000, 70%;
+}
+
+.egg-rolls {
+  background-image: url(https://images.unsplash.com/photo-1559095240-55a16b2dda6a?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
